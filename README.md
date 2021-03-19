@@ -5,6 +5,6 @@ You need [libconio](https://github.com/Bacagine/conio4linux) (linux version)
 # Build
 `$ gcc -o pause pause.c -lconio`
 
-#Installation
+# Installation
 `# cp pause /usr/bin/`
 
