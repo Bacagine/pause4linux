@@ -1,6 +1,6 @@
 # Pause for Linux
 
-You need [libconio](https://github.com/Bacagine/conio4linux) (linux version)
+You need [libconio](https://github.com/Bacagine/conio.h) (linux version)
 
 # Build
 `$ gcc -o pause pause.c -lconio`
